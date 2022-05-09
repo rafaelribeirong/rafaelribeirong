@@ -4,7 +4,7 @@ Hi 👋 My name is Rafael
 Estudante de Análise e Desenvolvimento de Sitemas
 -------------------------------------------------
 
-Sou apaixonado por tecnologia, atualmente estudo pela faculdade e cursos, no presente busco por estágio assim ampliando meu conhecimento e passando por etapas para me lapidar sem perder minha essência, para o futuro quero dominar o que faço, trabalhar em uma grande empresa sendo necessário e acima de tudo que me permita ser criativo e inovador.
+Sou apaixonado por tecnologia, atualmente estudo pela faculdade e cursos, no presente busco por estágio assim ampliando meu conhecimento e passando por etapas para me lapidar sem perder minha essência, para o futuro quero dominar o que faço, trabalhar em uma grande empresa sendo necessário e acima de tudo ser criativo e inovador.
 
 * 🌍  I'm based in Rio de Janeiro - Brasil
 * 🖥️  See my portfolio at [estou cirando](http://aaaa)
