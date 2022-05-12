@@ -1,4 +1,4 @@
-Hi 👋 My name is Rafael
+Oi 👋 Meu nome é Rafael
 =======================
 
 Estudante de Análise e Desenvolvimento de Sitemas - Unigranrio
@@ -6,12 +6,12 @@ Estudante de Análise e Desenvolvimento de Sitemas - Unigranrio
 
 Sou apaixonado por tecnologia, atualmente estudo pela faculdade e cursos, no presente busco por estágio assim ampliando meu conhecimento e passando por etapas para me lapidar sem perder minha essência, para o futuro quero dominar o que faço, trabalhar em uma grande empresa sendo necessário e acima de tudo ser criativo e inovador.
 
-* 🌍  I'm based in Rio de Janeiro - Brasil
-* 🖥️  See my portfolio at [loading](http://aaaa)
-* ✉️  You can contact me at [rafaelribeirong@gmail.com](mailto:rafaelribeirong@gmail.com)
-* 🧠  I'm learning programming 
+* 🌍  Estou no Rio de Janeiro - Brasil
+* 🖥️  Veja meu portfólio em [loading](http://aaaa)
+* ✉️  Você pode entrar em contato comigo em [rafaelribeirong@gmail.com](mailto:rafaelribeirong@gmail.com)
+* 🧠  Continue aprendendo, Continue programando
 
-### Skills
+### Habilidades
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -24,13 +24,13 @@ Sou apaixonado por tecnologia, atualmente estudo pela faculdade e cursos, no pre
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-### Socials
+### Social
 
 <p align="left"> <a href="https://www.dev.to/vou criar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/rafaelribeirong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafaeelriibeiiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaelribeirong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ribeirodv_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/voucriar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
+### 
 
-<b>My GitHub Stats</b>
+<b>Minhas estatísticas do GitHub</b>
 
 <a href="http://www.github.com/rafaelribeirong"><img src="https://github-readme-stats.vercel.app/api?username=rafaelribeirong&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rafaelribeirong's GitHub stats" /></a>
 
