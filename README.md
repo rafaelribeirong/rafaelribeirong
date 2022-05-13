@@ -4,7 +4,9 @@ Oi 👋 Meu nome é Rafael
 Estudante de Análise e Desenvolvimento de Sitemas - Unigranrio
 -------------------------------------------------
 
-Sou apaixonado por tecnologia, atualmente estudo pela faculdade e cursos, no presente busco por estágio assim ampliando meu conhecimento e passando por etapas para me lapidar sem perder minha essência, para o futuro quero dominar o que faço, trabalhar em uma grande empresa sendo necessário e acima de tudo ser criativo e inovador.
+Sou estudante em Análise e Desenvolvimento de Sistemas, atualmente estou focado em aprender HTML5, CSS E JAVASCRIP, quero dominar a linguagem de marcação e programação então seguir aprendendo PHP, sistemas & Linguagem PHP, Dados MYSQL, Zend Framework, Desenvolvimento de Aplicações, jQuery, meu objetivo dentro de alguns anos é me tornar profissional de Cyber Security.
+
+Conecta aí!.
 
 * 🌍  Estou no Rio de Janeiro - Brasil
 * 🖥️  Veja meu portfólio em [loading](http://aaaa)
