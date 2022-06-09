@@ -4,7 +4,7 @@ Oi 👋 Meu nome é Rafael
 Estudante de Análise e Desenvolvimento de Sitemas - Unigranrio
 -------------------------------------------------
 
-Sou estudante em Análise e Desenvolvimento de Sistemas, atualmente estou focado em aprender HTML5, CSS E JAVASCRIP, em seguida, Python, sistemas & Linguagem PHP, SQL, e outras que me possibilitem ser Engenheiro De Segurança Da Informação.
+Sou estudante em Análise e Desenvolvimento de Sistemas, quero trabalhar no BackEnd Python, SQL, e outras que me possibilitem ser melhor profissional.
 
 Conecta aí!
 
