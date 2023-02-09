@@ -1,11 +1,8 @@
-Me chamo Rafael Ribeiro
-=======================
+Olá, meu nome é Rafael Ribeiro e sou estudante de Análise e Desenvolvimento de Sistemas na Estácio.
 
-Estudo Análise e Desenvolvimento de Sitemas - Unigranrio
--------------------------------------------------
-
-
+Como estudante desta área, estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos na tecnologia da informação. Além disso, sou uma pessoa proativa e com facilidade em trabalhar em equipe, o que me permite contribuir significativamente para os projetos em que participo.
 Conecta aí!
+
 
 * 🌍  Estou no Rio de Janeiro - Brasil
 * 🖥️  Veja meu portfólio em [loading](http://aaaa)
