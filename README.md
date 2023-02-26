@@ -1,7 +1,6 @@
 Olá, meu nome é Rafael Ribeiro e sou estudante de Análise e Desenvolvimento de Sistemas na Estácio.
 
-Como estudante desta área, estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos na tecnologia da informação. Além disso, sou uma pessoa proativa e com facilidade em trabalhar em equipe, o que me permite contribuir significativamente para os projetos em que participo.
-Conecta aí!
+"Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente me dedicando à aprendizagem da linguagem Java e suas aplicações para desenvolvimento de software. Estou migrando de área e buscando novos desafios na área de tecnologia da informação. Tenho interesse em programação, banco de dados e análise de sistemas, e estou sempre em busca de aprender mais sobre esses temas. Além do Java, tenho estudos outros assuntos voltados para tecnólogia. Fique à vontade para entrar em contato e trocar ideias sobre tecnologia e desenvolvimento de software!"
 
 
 * 🌍  Estou no Rio de Janeiro - Brasil
