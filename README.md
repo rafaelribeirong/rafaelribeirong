@@ -2,7 +2,6 @@
 
 
 * 🌍  Estou no Rio de Janeiro - Brasil
-* 🖥️  Veja meu portfólio em [loading](http://aaaa)
 * ✉️  Você pode entrar em contato comigo em [rafaelribeirong@gmail.com](mailto:rafaelribeirong@gmail.com)
 * 🧠  Continue aprendendo, Continue programando
 
