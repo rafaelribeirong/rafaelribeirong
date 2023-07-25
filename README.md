@@ -36,10 +36,5 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 - E-mail: rafaelribeirong@gmail.com
 - Website/Blog: https://www.westrike.online
 
-## Estatísticas do GitHub 📈
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=rafaelribeirong&show_icons=true&count_private=true&hide=contribs)
-
-
 
 
