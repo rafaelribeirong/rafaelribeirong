@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 
 ## Projetos 🚀
 
-- [Projeto de Segurança da Informação](https://github.com/seu-usuario/projeto-seguranca) - Projeto desenvolvido para campanha de phishing
+- [Projeto de Segurança da Informação](https://wordpress.com/post/westrik.wordpress.com/563) - Projeto desenvolvido para campanha de phishing
 - [Projeto de Cibersegurança](https://github.com/seu-usuario/projeto-ciberseguranca) - Descrição breve do projeto relacionado à identificação e correção de vulnerabilidades em aplicações web.
 
 ## Habilidades 🔧
