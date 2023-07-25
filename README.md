@@ -1,29 +1,45 @@
-* 🌍  Estou no Rio de Janeiro - Brasil
-* ✉️  Você pode entrar em contato comigo em [rafaelribeirong@gmail.com](mailto:rafaelribeirong@gmail.com)
-* 🧠  Continuo aprendendo e programando
+# Olá, eu sou Rafael 👋
 
-### Habilidades
+## Sobre mim 🙋‍♂️
 
-<p align="left">
+Sou apaixonado por tecnologia, segurança da informação e programação! Atualmente, estou focado em estudar e aprimorar meus conhecimentos nas seguintes áreas:
 
-### Habilidades
+- Redes de Computadores 🌐
+- Desenvolvimento com Python 🐍
+- Gestão de Segurança da Informação e Padrões ISO 27001/27002 🔒
+- LGPD (Lei Geral de Proteção de Dados) e Privacidade 📜
+- Cursos voltados para Cibersegurança e Ética Hacker 💻
 
-<p align="left">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-   <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-   
-</p>
+## Projetos 🚀
 
-### Redes Sociais
-<p align="left"> <a href="https://www.dev.to/vou criar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/rafaelribeirong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafaeelriibeiiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaelribeirong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+- [Projeto de Segurança da Informação](https://github.com/seu-usuario/projeto-seguranca) - Projeto desenvolvido para campanha de phishing
+- [Projeto de Cibersegurança](https://github.com/seu-usuario/projeto-ciberseguranca) - Descrição breve do projeto relacionado à identificação e correção de vulnerabilidades em aplicações web.
+
+## Habilidades 🔧
+
+- Linguagens de Programação: Python, HTML/CSS
+- Frameworks: Django 
+- Bancos de Dados: MySQL, MongoDB
+- Gestão de Segurança da Informação: ISO 27001/27002
+- LGPD e Privacidade
+- Cibersegurança e Ética Hacker
+
+## Experiência 💼
+
+- Estagiário em Consultoria de Segurança da Informação na Empresa [Solarplex](https://www.solarplex.com.br/) (2023 - Presente)
+  - Implementação de políticas de segurança com base na ISO 27001/27002.
+  - Análise e correção de vulnerabilidades em aplicações web.
+
+## Contato 📬
+
+- LinkedIn: [https://www.linkedin.com/in/rafaelribeirong/
+- E-mail: rafaelribeirong@gmail.com
+- Website/Blog: https://www.westrik.online
+
+## Estatísticas do GitHub 📈
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=rafaelribeirong&show_icons=true&count_private=true&hide=contribs)
 
 
-### 
 
-<b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/rafaelribeirong"><img src="https://github-readme-stats.vercel.app/api?username=rafaelribeirong&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rafaelribeirong's GitHub stats" /></a>
-<a href="https://github.com/rafaelribeirong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelribeirong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
