@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 - Bancos de Dados: MySQL, MongoDB
 - Gestão de Segurança da Informação: ISO 27001/27002
 - LGPD e Privacidade
-- Cibersegurança e Ética Hacker
+- Cibersegurança
 
 ## Experiência 💼
 
