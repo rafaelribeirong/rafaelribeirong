@@ -13,7 +13,6 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 ## Projetos 🚀
 
 - [Projeto de Segurança da Informação](https://wordpress.com/post/westrik.wordpress.com/563) - Projeto desenvolvido para campanha de phishing
-- [Projeto de Cibersegurança](https://github.com/seu-usuario/projeto-ciberseguranca) - Descrição breve do projeto relacionado à identificação e correção de vulnerabilidades em aplicações web.
 
 ## Habilidades 🔧
 
@@ -27,8 +26,8 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 ## Experiência 💼
 
 - Estagiário em Consultoria de Segurança da Informação na Empresa [Solarplex](https://www.solarplex.com.br/) (2023 - Presente)
-  - Implementação de políticas de segurança com base na ISO 27001/27002.
-  - Análise e correção de vulnerabilidades em aplicações web.
+  - Implementação de políticas de segurança LGPD com base na ISO 27001/27002.
+  - Análise e correção de vulnerabilidades
 
 ## Contato 📬
 
