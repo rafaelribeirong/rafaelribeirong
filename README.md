@@ -32,7 +32,6 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 ## Contato 📬
 
 - LinkedIn: https://www.linkedin.com/in/rafaelribeirong
-- E-mail: rafaelribeirong@gmail.com
 - Website/Blog: https://www.westrike.online
 
 
