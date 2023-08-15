@@ -2,6 +2,10 @@
 
 ## Sobre mim 🙋‍♂️
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ribeirong.png" alt="TryHackMe">
+
+
+
 Sou apaixonado por tecnologia, segurança da informação e programação! Atualmente, estou focado em estudar e aprimorar meus conhecimentos nas seguintes áreas:
 
 - Redes de Computadores 🌐
