@@ -16,10 +16,9 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 
 ## Habilidades 🔧
 
-- Linguagens de Programação: Python
-- Frameworks: Django 
-- Bancos de Dados: MySQL, MongoDB
-- Gestão de Segurança da Informação: ISO 27001/27002
+- Linguagens de Programação: Python - Php - JavaScript (em aprendizado)
+- Frameworks: ISO/IEC 27001 e 27002 
+- Bancos de Dados: MySQL
 - LGPD e Privacidade
 - Cibersegurança
 
