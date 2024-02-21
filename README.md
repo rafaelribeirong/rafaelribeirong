@@ -10,28 +10,20 @@ Sou apaixonado por tecnologia, segurança da informação e programação! Atual
 - LGPD (Lei Geral de Proteção de Dados) e Privacidade 📜
 - Cursos voltados para Cibersegurança e Ética Hacker 💻
 
-## Projetos 🚀
-
-- [Projeto de Segurança da Informação](https://wordpress.com/post/westrik.wordpress.com/563) - Projeto desenvolvido para campanha de phishing
-
 ## Habilidades 🔧
 
 - Linguagens de Programação: Python - Php - JavaScript (em aprendizado)
 - Frameworks: ISO/IEC 27001 e 27002 
-- Bancos de Dados: MySQL
 - LGPD e Privacidade
 - Cibersegurança
 
 ## Experiência 💼
 
-- Estagiário em Consultoria de Segurança da Informação na Empresa [Solarplex](https://www.solarplex.com.br/) (2023 - Presente)
-  - Implementação de políticas de segurança LGPD com base na ISO 27001/27002.
-  - Análise e correção de vulnerabilidades
+-  Consultor Jr de Segurança da Informação na Empresa [Solarplex](https://www.solarplex.com.br/) (2023 - Presente)
 
 ## Contato 📬
 
 - LinkedIn: https://www.linkedin.com/in/rafaelribeirong
-- Website/Blog: https://www.westrike.online
 
 
 
