@@ -7,6 +7,6 @@
   - Consultor ISO 27001, LGPD, TISAX 🔒
   - Cibersegurança 💻 (DCPT - Cursando)
 
-- Experiência como Consultor Jr na [Solarplex](https://www.solarplex.com.br/)
+- Consultor SI - Jr na [Solarplex](https://www.solarplex.com.br/)
 
 - LinkedIn: [linkedin.com/in/rafaelribeirong](https://www.linkedin.com/in/rafaelribeirong)
