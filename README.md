@@ -5,7 +5,7 @@
   - Monitoramento SIEM (Wazuh, Grafana, Zabbix) 🌐
   - Desenvolvimento em Python 🐍
   - Consultoria em ISO 27001, LGPD, TISAX 🔒
-  - Cibersegurança 💻
+  - Cibersegurança 💻 (DCPT - Cursando)
 
 - Experiência como Consultor Jr na [Solarplex](https://www.solarplex.com.br/)
 
