@@ -1,29 +1,13 @@
-# Olá, eu sou Rafael 👋
+# Rafael 👋
 
-## Sobre mim 🙋‍♂️
+- Apaixonado por tecnologia e segurança da informação
+- Estudando e aprimorando conhecimentos em:
+  - Redes de Computadores 🌐
+  - Desenvolvimento com Python 🐍
+  - ISO 27001/27002 🔒
+  - LGPD e Privacidade 📜
+  - Cibersegurança 💻
 
-Sou apaixonado por tecnologia, segurança da informação e programação! Atualmente, estou focado em estudar e aprimorar meus conhecimentos nas seguintes áreas:
+- Experiência como Consultor Jr na [Solarplex](https://www.solarplex.com.br/)
 
-- Redes de Computadores 🌐
-- Desenvolvimento com Python 🐍
-- Gestão de Segurança da Informação e Padrões ISO 27001/27002 🔒
-- LGPD (Lei Geral de Proteção de Dados) e Privacidade 📜
-- Cursos voltados para Cibersegurança e Ética Hacker 💻
-
-## Habilidades 🔧
-
-- Linguagens de Programação: Python - Php - JavaScript (em aprendizado)
-- Frameworks: ISO/IEC 27001 e 27002 
-- LGPD e Privacidade
-- Cibersegurança
-
-## Experiência 💼
-
--  Consultor Jr de Segurança da Informação na Empresa [Solarplex](https://www.solarplex.com.br/) (2023 - Presente)
-
-## Contato 📬
-
-- LinkedIn: https://www.linkedin.com/in/rafaelribeirong
-
-
-
+- LinkedIn: [linkedin.com/in/rafaelribeirong](https://www.linkedin.com/in/rafaelribeirong)
