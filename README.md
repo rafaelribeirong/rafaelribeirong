@@ -6,6 +6,7 @@
   - Desenvolvedor Python 🐍
   - Consultor ISO 27001, LGPD, TISAX 🔒
   - Cibersegurança 💻 (DCPT - Cursando)
+  - Análise e Desenvolvimento de Sistemas
 
 - Consultor SI - Jr na [Solarplex](https://www.solarplex.com.br/)
 
