@@ -1,6 +1,4 @@
-# Rafael 👋
-
-# Rafael Ribeiro - GitHub
+# Rafael 
 
 - **Implementação de normas ISO** (ISO 27001, 27002, 27003, 27005)
 - **Segurança da Informação**
