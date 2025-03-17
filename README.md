@@ -1,12 +1,17 @@
 # Rafael 👋
 
-- Apaixonado por tecnologia e segurança da informação
-- Estudando e aprimorando conhecimentos em:
+# Rafael Ribeiro - GitHub
 
-  - Consultor ISO 27001, LGPD, TISAX 🔒
-  - Cibersegurança (Red Team) 💻 (DCPT - Cursando)
-  - Análise e Desenvolvimento de Sistemas (Cursando)
+- **Implementação de normas ISO** (ISO 27001, 27002, 27003, 27005)
+- **Segurança da Informação**
+- **Consultoria em LGPD**
+  
+Atualmente, estou em processo de certificação:
 
-- Consultor SI - Jr na [Solarplex](https://www.solarplex.com.br/)
+- **DESEC**
+- **Crowsec**
+
+## Conecte-se
 
 - LinkedIn: [linkedin.com/in/rafaelribeirong](https://www.linkedin.com/in/rafaelribeirong)
+)
