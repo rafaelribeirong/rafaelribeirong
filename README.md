@@ -1,4 +1,7 @@
-# Rafael 
+## 👋 Sobre mim
 
-- LinkedIn: [linkedin.com/in/rafaelribeirong](https://www.linkedin.com/in/rafaelribeirong)
+Sou Rafael Ribeiro, profissional focado em segurança da informação, consultoria em normas ISO e Pentest Web.
 
+### 🌐 Redes
+
+- [LinkedIn](https://www.linkedin.com/in/rafaelribeirong)
