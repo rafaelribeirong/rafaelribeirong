@@ -3,7 +3,6 @@
 Consultor de Segurança da Informação e Desenvolvedor Back-end Java, com experiência em **implantação de normas ISO/IEC 27001 e 27701, TISAX, LGPD e segurança ofensiva (pentest)**.  
 Atualmente aprimorando habilidades em **Java e Spring Boot**, com foco em desenvolvimento seguro e boas práticas de código.  
 
----
 
 ## Áreas de Atuação
 
@@ -32,7 +31,6 @@ Atualmente aprimorando habilidades em **Java e Spring Boot**, com foco em desenv
   - **Docker / Docker Compose** e deploy em **Render / Railway**  
   - Arquitetura limpa e boas práticas de código  
 
----
 
 ## Tecnologias e Ferramentas
 
@@ -52,7 +50,6 @@ Atualmente aprimorando habilidades em **Java e Spring Boot**, com foco em desenv
 ![GLPI](https://img.shields.io/badge/GLPI-005C97?style=for-the-badge)
 ![Pentest](https://img.shields.io/badge/Pentest-000000?style=for-the-badge)
 
----
 
 ## Formação e Estudos Atuais
 
@@ -66,7 +63,6 @@ Atualmente aprimorando habilidades em **Java e Spring Boot**, com foco em desenv
 - **TISAX e LGPD** – compliance e governança de dados  
 - **Pentest Web e Segurança Ofensiva** – OWASP Top 10, recon e exploração controlada  
 
----
 
 ## Estatísticas GitHub
 
