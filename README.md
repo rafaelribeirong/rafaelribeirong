@@ -51,19 +51,6 @@ Atualmente aprimorando habilidades em **Java e Spring Boot**, com foco em desenv
 ![Pentest](https://img.shields.io/badge/Pentest-000000?style=for-the-badge)
 
 
-## Formação e Estudos Atuais
-
-- **Análise e Desenvolvimento de Sistemas** – Universidade Estácio de Sá  
-- **Java e Spring Boot (Loiane Groner)** – fundamentos, orientação a objetos, collections, arrays, exceções, API REST  
-- **Spring Security e JWT (Michelli Brito)** – autenticação e autorização seguras  
-- **Docker e Deploy (LinuxTips)** – containers e automação de ambientes  
-- **Git e GitHub (Gustavo Guanabara)** – versionamento e colaboração  
-- **PostgreSQL e SQL (Curso em Vídeo)** – modelagem e comandos DDL/DML  
-- **ISO 27001 e 27701** – implementação e manutenção de SGSI/SGPD  
-- **TISAX e LGPD** – compliance e governança de dados  
-- **Pentest Web e Segurança Ofensiva** – OWASP Top 10, recon e exploração controlada  
-
-
 ## Estatísticas GitHub
 
 ![Rafael Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelribeirong&show_icons=true&theme=tokyonight)  
